@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #4C4949;
+}
+.nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
+.navbar-brand {
+    font-size: 1.3rem;
+    color: white;
+}
+body{
+    background-color: #F9C989;
+}
